@@ -1,0 +1,5 @@
+The program have a for loop sothat it cross all 1000 numbers and
+ it have an if to check whether it is a multiple of 3 or 5.
+It add all numbers to result.
+
+The solution is 233168

@@ -1,0 +1,4 @@
+At first we have to define boolean array sothat we change the status if we dont have a prime number.
+Then we add all number which have the status true.
+
+The solution is 142913828922.

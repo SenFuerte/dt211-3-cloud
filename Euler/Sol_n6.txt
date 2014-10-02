@@ -1,0 +1,4 @@
+At first we need the result of square of the sum and then the result of sum of the Squares.
+So we create 2 methods which calculte the needed results.
+
+The difference of the 2 results is 25164150.

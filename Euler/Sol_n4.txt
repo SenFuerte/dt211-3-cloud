@@ -1,0 +1,4 @@
+At first we need a mehtod to check whether it is a palindrom.
+Then we need all numbers which have more then 3 and less then 4 digits.
+
+The largest palindrome is 906609 which made from the product of two 3-digit numbers.

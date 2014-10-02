@@ -1,0 +1,4 @@
+At first we have to check if it is a prime number.
+Then we divide the number with the max number. 
+
+Sothat we get the largest prime factor 6857.

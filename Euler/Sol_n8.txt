@@ -1,0 +1,5 @@
+At first we have to cut the long number to 13 numbers.
+Then we multiple the number to product. If the product number is less then largestProduct
+then it updates the largestProduct.
+
+The largest product is 23514624000.
